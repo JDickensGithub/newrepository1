@@ -1,5 +1,5 @@
 # DS 413/613
-# Functions  Chapters 15 and 17
+# Functions  Chapters fifteen and seventeen
  library(tidyverse)
  library(lubridate)
 
