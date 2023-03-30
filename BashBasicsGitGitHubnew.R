@@ -1,4 +1,5 @@
 # BASIC BASH / Pushing a file to GitHub
+james dickens
 
 # Git ->  coding and processing      GitHub -> Posting , Showing, Hosting
 
